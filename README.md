@@ -1,4 +1,4 @@
-Todo List Application
+# Todo List Application
 This Todo List Application is a simple yet powerful tool designed to help manage daily tasks efficiently. Built using HTML, CSS, and JavaScript, it features local storage for persistence, dynamic filtering, and a responsive design suitable for both desktop and mobile devices.
 
 Features
